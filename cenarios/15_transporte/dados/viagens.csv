@@ -1,0 +1,186 @@
+id_viagem,id_linha,motorista,origem,horario,passageiros
+V001,L02,Motorista 01,Rodoviária,08:00,44
+V002,L02,Motorista 15,Bairro A,08:00,60
+V003,L04,Motorista 09,Bairro B,12:00,35
+V004,L03,Motorista 05,Universidade,12:00,65
+V005,L03,Motorista 15,Bairro A,19:00,17
+V006,L05,Motorista 07,Universidade,08:00,22
+V007,L02,Motorista 11,Centro,06:30,13
+V008,L05,Motorista 13,Bairro A,19:00,62
+V009,L04,Motorista 05,Bairro B,19:00,17
+V010,L05,Motorista 14,Universidade,17:30,63
+V011,L01,Motorista 08,Centro,19:00,24
+V012,L02,Motorista 13,Bairro B,17:30,33
+V013,L01,Motorista 15,Bairro B,19:00,16
+V014,L02,Motorista 09,Universidade,08:00,41
+V015,L03,Motorista 15,Centro,17:30,19
+V016,L02,Motorista 13,Bairro B,12:00,69
+V017,L02,Motorista 07,Universidade,17:30,19
+V018,L01,Motorista 06,Bairro B,08:00,10
+V019,L04,Motorista 13,Centro,12:00,8
+V020,L04,Motorista 08,Bairro A,06:30,43
+V021,L02,Motorista 06,Bairro A,17:30,30
+V022,L02,Motorista 09,Bairro A,19:00,36
+V023,L04,Motorista 02,Bairro B,17:30,40
+V024,L03,Motorista 01,Centro,19:00,32
+V025,L02,Motorista 04,Bairro B,19:00,33
+V026,L04,Motorista 05,Centro,17:30,32
+V027,L01,Motorista 01,Centro,08:00,55
+V028,L05,Motorista 13,Bairro A,19:00,44
+V029,L01,Motorista 01,Universidade,17:30,52
+V030,L04,Motorista 11,Rodoviária,08:00,35
+V031,L05,Motorista 01,Bairro B,17:30,20
+V032,L02,Motorista 04,Bairro B,08:00,17
+V033,L03,Motorista 05,Rodoviária,12:00,61
+V034,L05,Motorista 01,Universidade,17:30,41
+V035,L05,Motorista 11,Bairro A,19:00,58
+V036,L03,Motorista 08,Rodoviária,12:00,20
+V037,L05,Motorista 05,Rodoviária,08:00,34
+V038,L03,Motorista 05,Bairro A,19:00,60
+V039,L04,Motorista 03,Rodoviária,19:00,16
+V040,L03,Motorista 12,Centro,08:00,15
+V041,L05,Motorista 07,Rodoviária,08:00,22
+V042,L03,Motorista 15,Centro,19:00,70
+V043,L04,Motorista 08,Universidade,12:00,31
+V044,L04,Motorista 11,Universidade,08:00,45
+V045,L03,Motorista 01,Centro,12:00,17
+V046,L02,Motorista 12,Centro,06:30,51
+V047,L03,Motorista 08,Universidade,08:00,18
+V048,L03,Motorista 09,Bairro A,12:00,5
+V049,L02,Motorista 06,Rodoviária,08:00,52
+V050,L04,Motorista 07,Bairro B,17:30,6
+V051,L05,Motorista 15,Bairro B,17:30,31
+V052,L05,Motorista 06,Bairro A,12:00,48
+V053,L04,Motorista 10,Centro,19:00,39
+V054,L05,Motorista 02,Centro,12:00,37
+V055,L04,Motorista 05,Centro,17:30,69
+V056,L02,Motorista 03,Universidade,19:00,43
+V057,L04,Motorista 04,Rodoviária,19:00,19
+V058,L02,Motorista 08,Universidade,06:30,67
+V059,L05,Motorista 09,Centro,19:00,39
+V060,L05,Motorista 15,Bairro A,12:00,62
+V061,L04,Motorista 05,Bairro A,08:00,24
+V062,L02,Motorista 08,Bairro A,17:30,49
+V063,L03,Motorista 02,Bairro A,06:30,11
+V064,L04,Motorista 07,Universidade,08:00,12
+V065,L03,Motorista 03,Bairro B,12:00,7
+V066,L02,Motorista 14,Universidade,08:00,62
+V067,L02,Motorista 13,Universidade,06:30,34
+V068,L04,Motorista 01,Bairro A,08:00,12
+V069,L03,Motorista 10,Bairro A,19:00,21
+V070,L04,Motorista 15,Rodoviária,12:00,23
+V071,L02,Motorista 08,Rodoviária,12:00,33
+V072,L01,Motorista 04,Universidade,06:30,57
+V073,L02,Motorista 04,Centro,17:30,34
+V074,L04,Motorista 05,Universidade,06:30,64
+V075,L02,Motorista 05,Rodoviária,12:00,52
+V076,L04,Motorista 06,Bairro B,12:00,50
+V077,L04,Motorista 02,Bairro A,08:00,59
+V078,L04,Motorista 14,Universidade,06:30,20
+V079,L01,Motorista 14,Rodoviária,19:00,66
+V080,L03,Motorista 01,Bairro B,19:00,6
+V081,L04,Motorista 09,Rodoviária,12:00,31
+V082,L03,Motorista 12,Centro,17:30,28
+V083,L01,Motorista 07,Bairro B,06:30,41
+V084,L01,Motorista 07,Rodoviária,19:00,31
+V085,L02,Motorista 01,Universidade,06:30,22
+V086,L02,Motorista 01,Bairro B,06:30,10
+V087,L04,Motorista 05,Centro,17:30,21
+V088,L04,Motorista 03,Bairro A,06:30,40
+V089,L02,Motorista 03,Universidade,19:00,68
+V090,L04,Motorista 03,Rodoviária,12:00,68
+V091,L03,Motorista 11,Rodoviária,17:30,34
+V092,L05,Motorista 06,Bairro A,17:30,28
+V093,L03,Motorista 10,Centro,06:30,45
+V094,L02,Motorista 06,Bairro B,06:30,16
+V095,L01,Motorista 03,Bairro A,12:00,10
+V096,L05,Motorista 06,Rodoviária,06:30,49
+V097,L01,Motorista 03,Centro,12:00,40
+V098,L03,Motorista 06,Centro,08:00,49
+V099,L02,Motorista 09,Bairro B,19:00,69
+V100,L02,Motorista 07,Bairro B,12:00,59
+V101,L02,Motorista 08,Universidade,12:00,41
+V102,L02,Motorista 13,Bairro B,12:00,29
+V103,L02,Motorista 02,Universidade,12:00,54
+V104,L04,Motorista 11,Bairro A,08:00,68
+V105,L02,Motorista 01,Rodoviária,08:00,38
+V106,L02,Motorista 13,Bairro A,06:30,57
+V107,L05,Motorista 03,Bairro B,08:00,35
+V108,L05,Motorista 04,Centro,12:00,28
+V109,L05,Motorista 06,Rodoviária,19:00,61
+V110,L05,Motorista 10,Centro,19:00,62
+V111,L05,Motorista 03,Centro,08:00,52
+V112,L03,Motorista 15,Rodoviária,17:30,41
+V113,L04,Motorista 05,Universidade,06:30,57
+V114,L01,Motorista 05,Rodoviária,17:30,11
+V115,L04,Motorista 05,Rodoviária,06:30,15
+V116,L04,Motorista 07,Centro,08:00,33
+V117,L01,Motorista 10,Bairro A,19:00,67
+V118,L01,Motorista 02,Rodoviária,19:00,29
+V119,L02,Motorista 10,Rodoviária,06:30,19
+V120,L05,Motorista 04,Bairro A,08:00,24
+V121,L04,Motorista 11,Bairro A,19:00,30
+V122,L05,Motorista 12,Centro,19:00,57
+V123,L02,Motorista 01,Centro,06:30,43
+V124,L01,Motorista 09,Rodoviária,12:00,28
+V125,L04,Motorista 10,Bairro A,19:00,16
+V126,L03,Motorista 15,Rodoviária,19:00,62
+V127,L04,Motorista 02,Universidade,06:30,40
+V128,L04,Motorista 01,Centro,17:30,59
+V129,L03,Motorista 12,Bairro A,12:00,42
+V130,L02,Motorista 12,Rodoviária,08:00,28
+V131,L01,Motorista 14,Bairro A,19:00,47
+V132,L04,Motorista 14,Centro,19:00,18
+V133,L05,Motorista 10,Rodoviária,17:30,36
+V134,L05,Motorista 14,Centro,12:00,34
+V135,L04,Motorista 08,Rodoviária,06:30,62
+V136,L02,Motorista 08,Bairro B,12:00,5
+V137,L04,Motorista 13,Rodoviária,12:00,19
+V138,L05,Motorista 06,Universidade,17:30,61
+V139,L03,Motorista 10,Bairro B,17:30,26
+V140,L03,Motorista 02,Universidade,06:30,17
+V141,L03,Motorista 09,Centro,17:30,17
+V142,L02,Motorista 12,Centro,12:00,46
+V143,L02,Motorista 10,Bairro A,19:00,26
+V144,L04,Motorista 06,Universidade,08:00,68
+V145,L02,Motorista 07,Centro,19:00,14
+V146,L01,Motorista 06,Centro,08:00,66
+V147,L05,Motorista 05,Universidade,08:00,11
+V148,L03,Motorista 03,Rodoviária,12:00,57
+V149,L04,Motorista 02,Centro,12:00,8
+V150,L05,Motorista 10,Rodoviária,08:00,15
+V151,L04,Motorista 09,Centro,08:00,25
+V152,L05,Motorista 06,Universidade,08:00,61
+V153,L04,Motorista 12,Universidade,19:00,51
+V154,L04,Motorista 10,Bairro B,08:00,64
+V155,L02,Motorista 12,Centro,12:00,29
+V156,L02,Motorista 03,Centro,17:30,46
+V157,L05,Motorista 05,Centro,08:00,32
+V158,L01,Motorista 10,Rodoviária,19:00,26
+V159,L05,Motorista 11,Bairro B,06:30,36
+V160,L03,Motorista 15,Centro,17:30,59
+V161,L01,Motorista 08,Bairro B,17:30,58
+V162,L01,Motorista 11,Bairro A,19:00,57
+V163,L02,Motorista 11,Rodoviária,12:00,18
+V164,L02,Motorista 02,Centro,19:00,38
+V165,L02,Motorista 03,Centro,08:00,23
+V166,L01,Motorista 11,Centro,17:30,25
+V167,L04,Motorista 06,Bairro A,19:00,40
+V168,L05,Motorista 02,Universidade,12:00,17
+V169,L01,Motorista 10,Centro,17:30,41
+V170,L02,Motorista 14,Bairro A,19:00,17
+V171,L04,Motorista 14,Bairro A,12:00,16
+V172,L01,Motorista 11,Bairro B,17:30,58
+V173,L05,Motorista 04,Rodoviária,06:30,41
+V174,L04,Motorista 12,Bairro B,17:30,29
+V175,L05,Motorista 13,Centro,08:00,30
+V176,L01,Motorista 04,Bairro B,19:00,26
+V177,L03,Motorista 03,Universidade,06:30,33
+V178,L05,Motorista 12,Universidade,12:00,9
+V179,L02,Motorista 09,Bairro B,06:30,33
+V180,L02,Motorista 07,Rodoviária,06:30,26
+V101,L02,Motorista 08,Universidade,12:00,41
+V102,L02,Motorista 13,Bairro B,12:00,29
+V103,L02,Motorista 02,Universidade,12:00,54
+V104,L04,Motorista 11,Bairro A,08:00,68
+V105,L02,Motorista 01,Rodoviária,08:00,38

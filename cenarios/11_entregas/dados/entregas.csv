@@ -1,0 +1,166 @@
+id_entrega,cidade,entregador,regiao,distancia_km,status
+E001,Fortaleza dos Nogueiras,Entregador 12,Leste,32,Atrasado
+E002,Balsas,Entregador 11,Sul,12,Entregue
+E003,Tasso Fragoso,Entregador 12,Leste,26,Entregue
+E004,São Raimundo das Mangabeiras,Entregador 09,Centro,1,Entregue
+E005,Fortaleza dos Nogueiras,Entregador 07,Centro,39,Cancelado
+E006,Riachão,Entregador 04,Sul,9,Entregue
+E007,São Raimundo das Mangabeiras,Entregador 06,Sul,30,Atrasado
+E008,Riachão,Entregador 06,Centro,2,Cancelado
+E009,Tasso Fragoso,Entregador 06,Sul,36,Cancelado
+E010,São Raimundo das Mangabeiras,Entregador 11,Sul,1,Entregue
+E011,Fortaleza dos Nogueiras,Entregador 04,Norte,31,Entregue
+E012,Tasso Fragoso,Entregador 12,Centro,4,Atrasado
+E013,São Raimundo das Mangabeiras,Entregador 09,Norte,28,Atrasado
+E014,Riachão,Entregador 08,Leste,21,Atrasado
+E015,São Raimundo das Mangabeiras,Entregador 12,Oeste,25,Atrasado
+E016,Fortaleza dos Nogueiras,Entregador 04,Norte,12,Entregue
+E017,São Raimundo das Mangabeiras,Entregador 08,Centro,40,Entregue
+E018,Tasso Fragoso,Entregador 02,Leste,16,Entregue
+E019,Balsas,Entregador 14,Norte,24,Entregue
+E020,Fortaleza dos Nogueiras,Entregador 11,Oeste,5,Cancelado
+E021,Balsas,Entregador 02,Norte,22,Entregue
+E022,Riachão,Entregador 13,Norte,5,Entregue
+E023,Fortaleza dos Nogueiras,Entregador 09,Norte,36,Entregue
+E024,São Raimundo das Mangabeiras,Entregador 13,Sul,13,Entregue
+E025,Fortaleza dos Nogueiras,Entregador 01,Norte,14,Atrasado
+E026,Balsas,Entregador 14,Centro,6,Entregue
+E027,Balsas,Entregador 14,Centro,1,Atrasado
+E028,Balsas,Entregador 05,Oeste,38,Cancelado
+E029,Balsas,Entregador 10,Leste,27,Atrasado
+E030,São Raimundo das Mangabeiras,Entregador 02,Norte,17,Entregue
+E031,São Raimundo das Mangabeiras,Entregador 04,Sul,33,Atrasado
+E032,Balsas,Entregador 04,Leste,2,Cancelado
+E033,Balsas,Entregador 08,Norte,40,Atrasado
+E034,Riachão,Entregador 03,Oeste,24,Entregue
+E035,São Raimundo das Mangabeiras,Entregador 08,Norte,39,Atrasado
+E036,Riachão,Entregador 08,Oeste,32,Entregue
+E037,Fortaleza dos Nogueiras,Entregador 08,Sul,41,Entregue
+E038,São Raimundo das Mangabeiras,Entregador 08,Leste,42,Atrasado
+E039,São Raimundo das Mangabeiras,Entregador 06,Norte,23,Atrasado
+E040,Fortaleza dos Nogueiras,Entregador 07,Centro,41,Entregue
+E041,Riachão,Entregador 10,Leste,30,Cancelado
+E042,Fortaleza dos Nogueiras,Entregador 10,Centro,3,Entregue
+E043,Balsas,Entregador 09,Leste,33,Cancelado
+E044,São Raimundo das Mangabeiras,Entregador 01,Centro,12,Entregue
+E045,Tasso Fragoso,Entregador 05,Leste,22,Atrasado
+E046,Fortaleza dos Nogueiras,Entregador 10,Centro,22,Atrasado
+E047,Riachão,Entregador 05,Centro,22,Atrasado
+E048,Fortaleza dos Nogueiras,Entregador 13,Leste,18,Atrasado
+E049,Balsas,Entregador 14,Sul,40,Entregue
+E050,Riachão,Entregador 08,Leste,28,Entregue
+E051,Tasso Fragoso,Entregador 07,Sul,21,Cancelado
+E052,Tasso Fragoso,Entregador 03,Oeste,11,Entregue
+E053,Tasso Fragoso,Entregador 03,Centro,18,Entregue
+E054,Balsas,Entregador 10,Norte,42,Entregue
+E055,Riachão,Entregador 15,Sul,9,Entregue
+E056,Tasso Fragoso,Entregador 07,Centro,22,Cancelado
+E057,Riachão,Entregador 12,Centro,21,Atrasado
+E058,São Raimundo das Mangabeiras,Entregador 01,Oeste,3,Cancelado
+E059,Fortaleza dos Nogueiras,Entregador 15,Leste,7,Entregue
+E060,Balsas,Entregador 13,Sul,36,Entregue
+E061,São Raimundo das Mangabeiras,Entregador 02,Norte,22,Entregue
+E062,Tasso Fragoso,Entregador 11,Centro,22,Cancelado
+E063,Fortaleza dos Nogueiras,Entregador 05,Norte,13,Cancelado
+E064,Balsas,Entregador 01,Leste,43,Atrasado
+E065,Fortaleza dos Nogueiras,Entregador 15,Norte,23,Entregue
+E066,São Raimundo das Mangabeiras,Entregador 07,Sul,42,Entregue
+E067,São Raimundo das Mangabeiras,Entregador 05,Norte,44,Atrasado
+E068,Tasso Fragoso,Entregador 03,Oeste,43,Entregue
+E069,Riachão,Entregador 09,Centro,22,Entregue
+E070,Balsas,Entregador 08,Norte,38,Cancelado
+E071,Fortaleza dos Nogueiras,Entregador 09,Oeste,13,Cancelado
+E072,Tasso Fragoso,Entregador 14,Centro,31,Cancelado
+E073,Riachão,Entregador 07,Oeste,25,Entregue
+E074,Riachão,Entregador 07,Norte,12,Entregue
+E075,São Raimundo das Mangabeiras,Entregador 14,Leste,12,Atrasado
+E076,Tasso Fragoso,Entregador 15,Leste,26,Entregue
+E077,Fortaleza dos Nogueiras,Entregador 03,Oeste,7,Atrasado
+E078,Tasso Fragoso,Entregador 15,Norte,36,Atrasado
+E079,Tasso Fragoso,Entregador 05,Centro,41,Atrasado
+E080,Riachão,Entregador 11,Oeste,34,Atrasado
+E081,São Raimundo das Mangabeiras,Entregador 08,Leste,15,Entregue
+E082,Tasso Fragoso,Entregador 10,Oeste,7,Entregue
+E083,Riachão,Entregador 08,Norte,12,Atrasado
+E084,Tasso Fragoso,Entregador 10,Sul,24,Atrasado
+E085,Tasso Fragoso,Entregador 07,Oeste,20,Cancelado
+E086,Riachão,Entregador 11,Norte,27,Entregue
+E087,São Raimundo das Mangabeiras,Entregador 13,Sul,45,Atrasado
+E088,Riachão,Entregador 09,Leste,45,Entregue
+E089,Riachão,Entregador 07,Sul,24,Cancelado
+E090,Fortaleza dos Nogueiras,Entregador 14,Leste,27,Entregue
+E091,Riachão,Entregador 09,Centro,37,Atrasado
+E092,Tasso Fragoso,Entregador 01,Leste,29,Cancelado
+E093,Tasso Fragoso,Entregador 04,Sul,3,Cancelado
+E094,São Raimundo das Mangabeiras,Entregador 01,Oeste,12,Atrasado
+E095,Balsas,Entregador 13,Oeste,36,Atrasado
+E096,Fortaleza dos Nogueiras,Entregador 01,Sul,11,Atrasado
+E097,Riachão,Entregador 01,Centro,7,Cancelado
+E098,Fortaleza dos Nogueiras,Entregador 05,Oeste,7,Cancelado
+E099,Tasso Fragoso,Entregador 09,Oeste,31,Entregue
+E100,Riachão,Entregador 14,Sul,4,Atrasado
+E101,São Raimundo das Mangabeiras,Entregador 15,Centro,26,Atrasado
+E102,Riachão,Entregador 09,Leste,40,Atrasado
+E103,São Raimundo das Mangabeiras,Entregador 12,Centro,29,Entregue
+E104,Balsas,Entregador 01,Sul,41,Cancelado
+E105,Fortaleza dos Nogueiras,Entregador 10,Norte,26,Cancelado
+E106,Riachão,Entregador 11,Centro,23,Atrasado
+E107,Tasso Fragoso,Entregador 13,Sul,4,Cancelado
+E108,Fortaleza dos Nogueiras,Entregador 01,Centro,6,Cancelado
+E109,Balsas,Entregador 04,Leste,28,Cancelado
+E110,São Raimundo das Mangabeiras,Entregador 09,Leste,37,Entregue
+E111,Balsas,Entregador 04,Sul,9,Entregue
+E112,São Raimundo das Mangabeiras,Entregador 07,Centro,26,Cancelado
+E113,Balsas,Entregador 06,Sul,29,Atrasado
+E114,Balsas,Entregador 14,Sul,14,Atrasado
+E115,Fortaleza dos Nogueiras,Entregador 11,Oeste,10,Entregue
+E116,Riachão,Entregador 04,Norte,13,Cancelado
+E117,Riachão,Entregador 07,Oeste,28,Entregue
+E118,Fortaleza dos Nogueiras,Entregador 02,Centro,29,Cancelado
+E119,Balsas,Entregador 04,Oeste,20,Atrasado
+E120,Riachão,Entregador 04,Leste,34,Cancelado
+E121,Tasso Fragoso,Entregador 14,Centro,19,Entregue
+E122,Tasso Fragoso,Entregador 08,Leste,16,Cancelado
+E123,Fortaleza dos Nogueiras,Entregador 15,Norte,2,Cancelado
+E124,Fortaleza dos Nogueiras,Entregador 01,Oeste,40,Cancelado
+E125,Tasso Fragoso,Entregador 11,Norte,36,Atrasado
+E126,Fortaleza dos Nogueiras,Entregador 05,Centro,42,Entregue
+E127,Balsas,Entregador 02,Oeste,37,Cancelado
+E128,Fortaleza dos Nogueiras,Entregador 08,Norte,30,Cancelado
+E129,Fortaleza dos Nogueiras,Entregador 06,Leste,42,Cancelado
+E130,Balsas,Entregador 03,Norte,26,Cancelado
+E131,Riachão,Entregador 13,Sul,14,Cancelado
+E132,Balsas,Entregador 08,Sul,43,Cancelado
+E133,São Raimundo das Mangabeiras,Entregador 12,Sul,21,Cancelado
+E134,Fortaleza dos Nogueiras,Entregador 01,Norte,39,Atrasado
+E135,Balsas,Entregador 14,Centro,16,Entregue
+E136,Tasso Fragoso,Entregador 13,Sul,2,Atrasado
+E137,Balsas,Entregador 13,Sul,29,Entregue
+E138,Balsas,Entregador 04,Norte,22,Cancelado
+E139,Fortaleza dos Nogueiras,Entregador 03,Norte,5,Entregue
+E140,Balsas,Entregador 06,Centro,40,Cancelado
+E141,Fortaleza dos Nogueiras,Entregador 11,Centro,36,Cancelado
+E142,Fortaleza dos Nogueiras,Entregador 03,Centro,4,Atrasado
+E143,Tasso Fragoso,Entregador 11,Sul,16,Cancelado
+E144,São Raimundo das Mangabeiras,Entregador 14,Norte,31,Atrasado
+E145,Fortaleza dos Nogueiras,Entregador 10,Centro,2,Cancelado
+E146,Riachão,Entregador 04,Oeste,43,Entregue
+E147,Fortaleza dos Nogueiras,Entregador 15,Sul,35,Atrasado
+E148,Tasso Fragoso,Entregador 01,Norte,37,Cancelado
+E149,Balsas,Entregador 03,Leste,17,Cancelado
+E150,Tasso Fragoso,Entregador 04,Norte,8,Atrasado
+E151,Tasso Fragoso,Entregador 01,Leste,3,Entregue
+E152,Riachão,Entregador 11,Oeste,42,Cancelado
+E153,Riachão,Entregador 13,Centro,40,Entregue
+E154,Fortaleza dos Nogueiras,Entregador 13,Sul,20,Cancelado
+E155,Balsas,Entregador 06,Oeste,5,Cancelado
+E156,São Raimundo das Mangabeiras,Entregador 03,Norte,11,Entregue
+E157,Riachão,Entregador 04,Oeste,25,Cancelado
+E158,Balsas,Entregador 05,Oeste,7,Atrasado
+E159,Balsas,Entregador 15,Oeste,15,Cancelado
+E160,Balsas,Entregador 07,Norte,43,Atrasado
+E036,Riachão,Entregador 08,Oeste,32,Entregue
+E037,Fortaleza dos Nogueiras,Entregador 08,Sul,41,Entregue
+E038,São Raimundo das Mangabeiras,Entregador 08,Leste,42,Atrasado
+E039,São Raimundo das Mangabeiras,Entregador 06,Norte,23,Atrasado
+E040,Fortaleza dos Nogueiras,Entregador 07,Centro,41,Entregue

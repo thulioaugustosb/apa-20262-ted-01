@@ -1,0 +1,105 @@
+id_partida,time,adversario,gols_time,gols_adversario,mando
+J001,Sampaio,Tuntum,2,2,Fora
+J002,Tuntum,Pinheiro,5,5,Casa
+J003,Sampaio,Tuntum,2,4,Fora
+J004,Tuntum,Cordino,1,3,Casa
+J005,Tuntum,Cordino,5,2,Casa
+J006,Imperatriz,Pinheiro,4,2,Fora
+J007,Tuntum,Imperatriz,5,0,Casa
+J008,Pinheiro,IAPE,0,3,Fora
+J009,Imperatriz,Cordino,5,4,Casa
+J010,Imperatriz,Moto Club,3,2,Casa
+J011,Pinheiro,Balsas FC,0,1,Fora
+J012,Moto Club,Balsas FC,1,4,Fora
+J013,Sampaio,Imperatriz,5,4,Fora
+J014,Sampaio,Balsas FC,3,4,Fora
+J015,Pinheiro,Balsas FC,2,5,Casa
+J016,IAPE,Pinheiro,0,4,Casa
+J017,IAPE,Balsas FC,0,1,Casa
+J018,Pinheiro,IAPE,2,2,Casa
+J019,Tuntum,Cordino,2,0,Fora
+J020,Cordino,Moto Club,1,5,Casa
+J021,Pinheiro,Moto Club,4,0,Casa
+J022,IAPE,Balsas FC,4,1,Fora
+J023,Imperatriz,Cordino,0,5,Casa
+J024,Cordino,Sampaio,1,5,Fora
+J025,Pinheiro,Imperatriz,2,0,Casa
+J026,Moto Club,Pinheiro,5,2,Casa
+J027,Pinheiro,Tuntum,1,5,Fora
+J028,IAPE,Sampaio,5,1,Casa
+J029,Pinheiro,Tuntum,1,0,Fora
+J030,Imperatriz,Balsas FC,0,1,Casa
+J031,Balsas FC,IAPE,5,5,Fora
+J032,Imperatriz,Pinheiro,3,0,Casa
+J033,Tuntum,Pinheiro,0,3,Fora
+J034,Balsas FC,Tuntum,3,4,Casa
+J035,Tuntum,IAPE,5,4,Fora
+J036,Imperatriz,Cordino,2,1,Fora
+J037,Cordino,Tuntum,3,3,Fora
+J038,Imperatriz,Tuntum,2,3,Fora
+J039,Pinheiro,Imperatriz,3,1,Fora
+J040,Pinheiro,Tuntum,4,5,Casa
+J041,Cordino,Tuntum,4,1,Casa
+J042,Balsas FC,Pinheiro,5,2,Fora
+J043,Cordino,Tuntum,5,3,Fora
+J044,Cordino,Sampaio,4,2,Fora
+J045,Cordino,Balsas FC,4,1,Casa
+J046,Pinheiro,Sampaio,5,0,Fora
+J047,Cordino,Sampaio,5,1,Casa
+J048,Sampaio,Balsas FC,2,1,Fora
+J049,Tuntum,Pinheiro,1,1,Fora
+J050,Balsas FC,Cordino,2,2,Fora
+J051,Cordino,IAPE,0,2,Fora
+J052,Imperatriz,Pinheiro,0,1,Fora
+J053,IAPE,Pinheiro,3,1,Casa
+J054,Moto Club,Sampaio,0,4,Casa
+J055,Moto Club,Pinheiro,0,5,Casa
+J056,Balsas FC,Cordino,1,0,Fora
+J057,Balsas FC,IAPE,1,2,Casa
+J058,Sampaio,Balsas FC,5,2,Casa
+J059,Sampaio,Imperatriz,2,2,Fora
+J060,Imperatriz,Pinheiro,4,0,Fora
+J061,IAPE,Moto Club,2,1,Casa
+J062,Moto Club,IAPE,4,3,Fora
+J063,Pinheiro,Sampaio,4,0,Casa
+J064,Cordino,Pinheiro,0,5,Fora
+J065,Imperatriz,Tuntum,0,4,Fora
+J066,Pinheiro,Sampaio,5,5,Casa
+J067,Moto Club,Imperatriz,1,0,Casa
+J068,Balsas FC,Imperatriz,1,0,Casa
+J069,Pinheiro,Tuntum,2,0,Fora
+J070,Pinheiro,Moto Club,3,0,Casa
+J071,IAPE,Cordino,1,0,Casa
+J072,Balsas FC,Tuntum,5,1,Fora
+J073,Sampaio,IAPE,3,4,Casa
+J074,Pinheiro,Cordino,1,5,Fora
+J075,Imperatriz,Sampaio,0,5,Casa
+J076,Balsas FC,Cordino,4,5,Fora
+J077,Sampaio,Balsas FC,2,5,Fora
+J078,Sampaio,Imperatriz,1,2,Casa
+J079,Balsas FC,Imperatriz,0,1,Fora
+J080,IAPE,Imperatriz,0,4,Fora
+J081,Imperatriz,Sampaio,1,2,Casa
+J082,Moto Club,Pinheiro,2,2,Fora
+J083,Imperatriz,Cordino,2,2,Fora
+J084,Imperatriz,Tuntum,0,4,Fora
+J085,Cordino,Balsas FC,2,3,Fora
+J086,Sampaio,Cordino,2,5,Casa
+J087,Sampaio,IAPE,0,2,Fora
+J088,Imperatriz,Moto Club,5,0,Casa
+J089,Moto Club,IAPE,4,1,Casa
+J090,Imperatriz,Balsas FC,1,1,Fora
+J091,Pinheiro,Imperatriz,3,1,Fora
+J092,Moto Club,Balsas FC,3,0,Fora
+J093,IAPE,Cordino,4,3,Fora
+J094,Cordino,Pinheiro,3,1,Casa
+J095,Balsas FC,Moto Club,3,0,Fora
+J096,Pinheiro,Imperatriz,4,3,Casa
+J097,Moto Club,Cordino,4,0,Casa
+J098,Pinheiro,Imperatriz,3,3,Casa
+J099,Cordino,Balsas FC,5,1,Casa
+J100,Cordino,Balsas FC,4,1,Fora
+J011,Pinheiro,Balsas FC,0,1,Fora
+J012,Moto Club,Balsas FC,1,4,Fora
+J013,Sampaio,Imperatriz,5,4,Fora
+J014,Sampaio,Balsas FC,3,4,Fora

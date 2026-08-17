@@ -1,0 +1,156 @@
+id_treino,aluno,modalidade,exercicio,series,frequencia_semanal
+T001,Aluno 03,Crossfit,Esteira,5,29
+T002,Aluno 03,Ciclismo,Bicicleta,2,17
+T003,Aluno 33,Musculação,Puxada,2,12
+T004,Aluno 26,Natação,Supino,4,17
+T005,Aluno 04,Ciclismo,Remada,2,40
+T006,Aluno 04,Crossfit,Leg Press,5,38
+T007,Aluno 22,Natação,Leg Press,2,39
+T008,Aluno 20,Natação,Supino,3,32
+T009,Aluno 06,Corrida,Agachamento,3,33
+T010,Aluno 08,Musculação,Agachamento,5,20
+T011,Aluno 03,Musculação,Bicicleta,3,38
+T012,Aluno 05,Crossfit,Agachamento,2,17
+T013,Aluno 31,Musculação,Remada,4,12
+T014,Aluno 38,Crossfit,Remada,5,27
+T015,Aluno 20,Musculação,Leg Press,4,7
+T016,Aluno 15,Corrida,Esteira,5,31
+T017,Aluno 02,Ciclismo,Puxada,5,31
+T018,Aluno 22,Crossfit,Supino,5,24
+T019,Aluno 01,Ciclismo,Remada,3,16
+T020,Aluno 34,Ciclismo,Agachamento,4,30
+T021,Aluno 18,Musculação,Agachamento,2,38
+T022,Aluno 34,Musculação,Esteira,4,30
+T023,Aluno 17,Natação,Esteira,2,35
+T024,Aluno 40,Natação,Supino,3,19
+T025,Aluno 20,Corrida,Bicicleta,4,32
+T026,Aluno 14,Corrida,Supino,2,13
+T027,Aluno 25,Natação,Agachamento,2,36
+T028,Aluno 10,Ciclismo,Esteira,5,15
+T029,Aluno 25,Ciclismo,Puxada,2,31
+T030,Aluno 38,Musculação,Bicicleta,3,37
+T031,Aluno 15,Corrida,Agachamento,4,6
+T032,Aluno 23,Musculação,Agachamento,5,8
+T033,Aluno 18,Crossfit,Supino,4,8
+T034,Aluno 36,Ciclismo,Puxada,4,40
+T035,Aluno 04,Natação,Remada,5,9
+T036,Aluno 40,Natação,Bicicleta,5,8
+T037,Aluno 34,Natação,Puxada,5,7
+T038,Aluno 32,Crossfit,Bicicleta,2,5
+T039,Aluno 18,Corrida,Bicicleta,4,18
+T040,Aluno 26,Natação,Bicicleta,2,28
+T041,Aluno 17,Musculação,Supino,3,34
+T042,Aluno 12,Corrida,Puxada,3,16
+T043,Aluno 09,Crossfit,Agachamento,2,6
+T044,Aluno 14,Crossfit,Esteira,2,35
+T045,Aluno 21,Ciclismo,Agachamento,5,35
+T046,Aluno 24,Corrida,Esteira,3,5
+T047,Aluno 03,Corrida,Puxada,3,7
+T048,Aluno 02,Crossfit,Esteira,3,21
+T049,Aluno 02,Musculação,Agachamento,4,11
+T050,Aluno 02,Crossfit,Leg Press,4,21
+T051,Aluno 09,Natação,Esteira,3,30
+T052,Aluno 28,Natação,Leg Press,5,23
+T053,Aluno 13,Musculação,Esteira,3,29
+T054,Aluno 07,Corrida,Supino,5,15
+T055,Aluno 34,Crossfit,Supino,4,7
+T056,Aluno 26,Crossfit,Remada,2,10
+T057,Aluno 29,Ciclismo,Esteira,4,14
+T058,Aluno 38,Crossfit,Bicicleta,3,28
+T059,Aluno 32,Musculação,Remada,2,33
+T060,Aluno 31,Crossfit,Remada,3,5
+T061,Aluno 15,Musculação,Leg Press,4,34
+T062,Aluno 34,Crossfit,Supino,2,27
+T063,Aluno 38,Corrida,Leg Press,5,9
+T064,Aluno 26,Corrida,Remada,4,31
+T065,Aluno 27,Crossfit,Bicicleta,3,26
+T066,Aluno 16,Ciclismo,Agachamento,5,15
+T067,Aluno 18,Natação,Bicicleta,2,17
+T068,Aluno 06,Natação,Supino,5,13
+T069,Aluno 22,Crossfit,Bicicleta,3,35
+T070,Aluno 10,Musculação,Puxada,5,5
+T071,Aluno 40,Natação,Leg Press,2,23
+T072,Aluno 03,Musculação,Bicicleta,5,7
+T073,Aluno 16,Musculação,Leg Press,3,31
+T074,Aluno 06,Ciclismo,Agachamento,2,30
+T075,Aluno 03,Crossfit,Agachamento,3,12
+T076,Aluno 16,Ciclismo,Agachamento,4,20
+T077,Aluno 01,Musculação,Bicicleta,3,6
+T078,Aluno 19,Corrida,Agachamento,4,15
+T079,Aluno 32,Corrida,Agachamento,4,28
+T080,Aluno 15,Crossfit,Supino,3,7
+T081,Aluno 17,Natação,Remada,4,29
+T082,Aluno 29,Musculação,Supino,2,38
+T083,Aluno 32,Natação,Supino,3,34
+T084,Aluno 25,Natação,Leg Press,4,31
+T085,Aluno 30,Ciclismo,Esteira,4,10
+T086,Aluno 35,Corrida,Puxada,3,19
+T087,Aluno 12,Corrida,Remada,3,7
+T088,Aluno 27,Crossfit,Remada,2,12
+T089,Aluno 26,Ciclismo,Esteira,2,27
+T090,Aluno 14,Corrida,Agachamento,4,24
+T091,Aluno 11,Ciclismo,Leg Press,3,14
+T092,Aluno 40,Crossfit,Puxada,2,29
+T093,Aluno 13,Natação,Agachamento,5,11
+T094,Aluno 15,Corrida,Remada,5,40
+T095,Aluno 28,Crossfit,Esteira,2,40
+T096,Aluno 06,Musculação,Leg Press,3,35
+T097,Aluno 03,Musculação,Leg Press,3,40
+T098,Aluno 26,Musculação,Leg Press,2,37
+T099,Aluno 06,Musculação,Agachamento,4,32
+T100,Aluno 12,Musculação,Esteira,5,11
+T101,Aluno 16,Musculação,Agachamento,3,36
+T102,Aluno 35,Ciclismo,Puxada,4,12
+T103,Aluno 02,Corrida,Esteira,5,13
+T104,Aluno 10,Musculação,Remada,2,28
+T105,Aluno 40,Natação,Supino,4,10
+T106,Aluno 28,Natação,Supino,4,20
+T107,Aluno 17,Crossfit,Bicicleta,5,20
+T108,Aluno 40,Crossfit,Esteira,4,23
+T109,Aluno 17,Natação,Puxada,2,37
+T110,Aluno 09,Corrida,Puxada,5,20
+T111,Aluno 32,Crossfit,Remada,3,20
+T112,Aluno 03,Natação,Agachamento,5,34
+T113,Aluno 12,Crossfit,Puxada,5,36
+T114,Aluno 21,Ciclismo,Bicicleta,4,32
+T115,Aluno 38,Crossfit,Supino,4,15
+T116,Aluno 05,Crossfit,Bicicleta,4,22
+T117,Aluno 13,Natação,Leg Press,3,23
+T118,Aluno 33,Corrida,Agachamento,4,32
+T119,Aluno 28,Musculação,Supino,2,27
+T120,Aluno 25,Crossfit,Agachamento,3,19
+T121,Aluno 15,Natação,Supino,3,34
+T122,Aluno 17,Natação,Bicicleta,2,11
+T123,Aluno 24,Musculação,Remada,5,12
+T124,Aluno 03,Musculação,Agachamento,5,5
+T125,Aluno 25,Natação,Remada,4,8
+T126,Aluno 09,Musculação,Puxada,3,9
+T127,Aluno 28,Crossfit,Supino,4,18
+T128,Aluno 35,Ciclismo,Supino,2,39
+T129,Aluno 19,Crossfit,Bicicleta,2,35
+T130,Aluno 01,Natação,Bicicleta,2,39
+T131,Aluno 14,Crossfit,Puxada,4,5
+T132,Aluno 18,Corrida,Bicicleta,3,26
+T133,Aluno 18,Musculação,Agachamento,3,24
+T134,Aluno 36,Corrida,Agachamento,5,8
+T135,Aluno 02,Corrida,Leg Press,3,14
+T136,Aluno 21,Natação,Bicicleta,3,14
+T137,Aluno 39,Ciclismo,Puxada,3,5
+T138,Aluno 22,Ciclismo,Remada,2,12
+T139,Aluno 11,Crossfit,Bicicleta,4,10
+T140,Aluno 15,Crossfit,Agachamento,5,28
+T141,Aluno 17,Crossfit,Puxada,5,21
+T142,Aluno 15,Natação,Agachamento,3,19
+T143,Aluno 20,Ciclismo,Puxada,4,19
+T144,Aluno 39,Crossfit,Puxada,5,27
+T145,Aluno 23,Crossfit,Remada,4,37
+T146,Aluno 09,Crossfit,Leg Press,5,7
+T147,Aluno 05,Ciclismo,Puxada,4,38
+T148,Aluno 18,Ciclismo,Leg Press,5,22
+T149,Aluno 18,Ciclismo,Agachamento,3,8
+T150,Aluno 26,Musculação,Esteira,4,35
+T026,Aluno 14,Corrida,Supino,2,13
+T027,Aluno 25,Natação,Agachamento,2,36
+T028,Aluno 10,Ciclismo,Esteira,5,15
+T029,Aluno 25,Ciclismo,Puxada,2,31
+T030,Aluno 38,Musculação,Bicicleta,3,37

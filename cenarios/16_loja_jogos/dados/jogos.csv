@@ -1,0 +1,9 @@
+id_jogo,nome,genero,plataforma,duracao_h
+J01,Aventura X,Aventura,PC,120
+J02,Mundo Pixel,RPG,PC,180
+J03,Corrida Turbo,Corrida,Console,90
+J04,Arena,Ação,Console,110
+J05,Estratégia 9,Estratégia,PC,200
+J06,Futebol Pro,Esportes,Console,100
+J07,Mistério,Suspense,PC,130
+J08,Galáxia,Ficção,Console,150

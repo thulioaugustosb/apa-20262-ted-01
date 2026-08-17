@@ -1,0 +1,8 @@
+id_prato,nome,categoria,preco
+P01,Hambúrguer,Lanches,32
+P02,Pizza,Massas,55
+P03,Salada,Saudável,28
+P04,Macarrão,Massas,42
+P05,Suco,Bebidas,10
+P06,Refrigerante,Bebidas,8
+P07,Torta,Sobremesas,18

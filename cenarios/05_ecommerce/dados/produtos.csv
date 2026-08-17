@@ -1,0 +1,9 @@
+id_produto,nome,categoria,preco
+P01,Notebook,Informática,3500
+P02,Smartphone,Eletrônicos,2400
+P03,Mouse,Informática,80
+P04,Fone,Acessórios,220
+P05,Monitor,Informática,900
+P06,Câmera,Eletrônicos,1800
+P07,Teclado,Informática,150
+P08,Mochila,Acessórios,190

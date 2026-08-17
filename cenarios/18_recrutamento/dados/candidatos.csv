@@ -1,0 +1,61 @@
+candidato,habilidades,anos_experiencia,pontuacao
+Candidato 01,Comunicação;Git;Linux;React;Inglês;Python,5,64
+Candidato 02,Git;SQL;Linux;Excel;React,5,96
+Candidato 03,Comunicação;React;Figma;SQL,4,50
+Candidato 04,Figma;React;Inglês,5,92
+Candidato 05,Python;SQL;Figma;React;Excel,9,68
+Candidato 06,Inglês;Power BI;React;Git;SQL;Comunicação,10,64
+Candidato 07,Inglês;Linux;Power BI;SQL;Figma,6,97
+Candidato 08,SQL;Python;Git;Power BI,3,66
+Candidato 09,Inglês;Python;Comunicação,7,71
+Candidato 10,Linux;Excel;Git,9,100
+Candidato 11,Git;React;Inglês;Figma,7,82
+Candidato 12,Linux;Python;Comunicação,6,76
+Candidato 13,SQL;Power BI;React,1,83
+Candidato 14,Figma;Excel;Inglês;Power BI,6,100
+Candidato 15,Git;Inglês;Python;Excel;Linux;Figma,9,80
+Candidato 16,Linux;Figma;Inglês,4,84
+Candidato 17,React;Inglês;Power BI;Linux,6,77
+Candidato 18,Comunicação;React;Inglês;Excel;Figma;Git,10,71
+Candidato 19,Excel;Power BI;Inglês,7,51
+Candidato 20,Inglês;Git;Python,10,95
+Candidato 21,Linux;Comunicação;Excel;Python;Inglês;Git,1,83
+Candidato 22,Excel;Git;Python;Figma,8,86
+Candidato 23,Power BI;SQL;Linux;Comunicação;React,5,75
+Candidato 24,Linux;Figma;Python;Comunicação,2,90
+Candidato 25,SQL;React;Inglês,2,62
+Candidato 26,Git;Comunicação;Excel;Power BI;Linux;SQL,5,55
+Candidato 27,Inglês;Linux;Power BI;Git,4,69
+Candidato 28,Figma;Git;Power BI,9,64
+Candidato 29,Power BI;Comunicação;Linux;Inglês;Excel;Git,6,100
+Candidato 30,Python;Power BI;React;Linux;Inglês;SQL,3,90
+Candidato 31,Excel;Figma;Comunicação;Inglês,1,59
+Candidato 32,Figma;Power BI;React;Comunicação,6,79
+Candidato 33,Python;Comunicação;Git,0,100
+Candidato 34,Linux;Excel;Figma;Comunicação;React;Power BI,5,86
+Candidato 35,SQL;Excel;Comunicação;Git;Power BI,5,85
+Candidato 36,Inglês;Power BI;Comunicação;Git,7,96
+Candidato 37,Linux;React;Excel,1,69
+Candidato 38,Linux;Figma;Git;Inglês;SQL;Excel,3,65
+Candidato 39,Linux;Figma;Git,5,74
+Candidato 40,Figma;Git;Comunicação;Inglês;SQL;Power BI,5,80
+Candidato 41,Figma;Inglês;React,2,95
+Candidato 42,Power BI;Excel;Git;Python;Comunicação,1,58
+Candidato 43,Excel;Power BI;Figma,7,98
+Candidato 44,Linux;Python;Power BI;Figma,5,57
+Candidato 45,Power BI;Git;Figma;Inglês;React,6,56
+Candidato 46,Comunicação;React;Linux;Figma;Inglês;SQL,9,97
+Candidato 47,Figma;Linux;Comunicação,0,98
+Candidato 48,Git;Python;Power BI;Excel,10,87
+Candidato 49,Comunicação;Power BI;React;Figma,2,97
+Candidato 50,Linux;Figma;SQL,9,86
+Candidato 51,SQL;Linux;Excel;Power BI,7,63
+Candidato 52,Git;Figma;Power BI;Python,9,52
+Candidato 53,Power BI;SQL;React;Inglês,2,58
+Candidato 54,Figma;Comunicação;Excel;React;Git,7,64
+Candidato 55,Excel;Power BI;Git,3,54
+Candidato 56,React;Linux;Inglês;Power BI;Comunicação;Excel,1,56
+Candidato 57,Comunicação;Linux;React;Python,2,90
+Candidato 58,Python;React;Git,5,86
+Candidato 59,Inglês;Power BI;Excel,7,98
+Candidato 60,Figma;React;Comunicação;Excel,3,68
