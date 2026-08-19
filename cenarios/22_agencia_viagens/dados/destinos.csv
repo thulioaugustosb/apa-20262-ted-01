@@ -1,0 +1,13 @@
+destino_id,cidade,regiao,perfil
+D001,São Luís,Sudeste,Negócios
+D002,Fortaleza,Norte,Natureza
+D003,Recife,Sul,Negócios
+D004,Salvador,Norte,Natureza
+D005,Natal,Centro-Oeste,Praia
+D006,Rio de Janeiro,Norte,Negócios
+D007,São Paulo,Sul,Natureza
+D008,Curitiba,Nordeste,Gastronomia
+D009,Gramado,Norte,Cultura
+D010,Brasília,Sudeste,Negócios
+D011,Belém,Centro-Oeste,Natureza
+D012,Manaus,Norte,Negócios

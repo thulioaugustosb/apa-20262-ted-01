@@ -1,0 +1,21 @@
+filme_id,titulo,genero,duracao_min,avaliacao
+F001,Filme 01,Terror,122,7.0
+F002,Filme 02,Animação,135,6.9
+F003,Filme 03,Terror,111,9.1
+F004,Filme 04,Ação,148,8.4
+F005,Filme 05,Comédia,124,8.9
+F006,Filme 06,Ação,85,8.0
+F007,Filme 07,Animação,129,7.4
+F008,Filme 08,Ficção,118,8.9
+F009,Filme 09,Ficção,91,9.2
+F010,Filme 10,Animação,123,7.1
+F011,Filme 11,Terror,120,9.0
+F012,Filme 12,Drama,144,8.6
+F013,Filme 13,Terror,120,6.4
+F014,Filme 14,Animação,91,9.2
+F015,Filme 15,Ação,93,6.8
+F016,Filme 16,Terror,104,7.6
+F017,Filme 17,Drama,142,9.2
+F018,Filme 18,Ficção,85,7.9
+F019,Filme 19,Ficção,146,6.3
+F020,Filme 20,Animação,115,8.8

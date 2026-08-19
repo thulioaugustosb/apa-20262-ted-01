@@ -1,0 +1,13 @@
+produto_id,produto,categoria,preco
+P001,Paracetamol,Analgésicos,18.9
+P002,Ibuprofeno,Analgésicos,22.5
+P003,Sabonete,Higiene,7.9
+P004,Protetor Solar,Dermocosméticos,49.9
+P005,Vitamina C,Vitaminas,29.9
+P006,Curativo,Primeiros Socorros,12.5
+P007,Shampoo,Higiene,24.9
+P008,Multivitamínico,Vitaminas,39.9
+P009,Creme Facial,Dermocosméticos,54.9
+P010,Termômetro,Primeiros Socorros,31.9
+P011,Dipirona,Analgésicos,16.9
+P012,Álcool 70,Primeiros Socorros,9.9

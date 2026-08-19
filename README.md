@@ -6,26 +6,30 @@ Cada dupla deverá utilizar **exclusivamente o cenário que foi atribuído pelo 
 
 ## Cenários
 
-| Cenário | Tema                         |
-| ------: | ---------------------------- |
-|      01 | Vendas de uma Loja           |
-|      02 | Desempenho Acadêmico         |
-|      03 | Biblioteca                   |
-|      04 | Streaming de Filmes e Séries |
-|      05 | E-commerce                   |
-|      06 | Cursos Online                |
-|      07 | Academia                     |
-|      08 | Campeonato de Futebol        |
-|      09 | Plataforma de Eventos        |
-|      10 | Restaurante                  |
-|      11 | Entregas                     |
-|      12 | Aplicativo de Música         |
-|      13 | Atendimento ao Cliente       |
-|      14 | Hospedagem                   |
-|      15 | Transporte Público           |
-|      16 | Loja de Jogos                |
-|      17 | Rede Social                  |
-|      18 | Recrutamento                 |
+| Grupo | Cenário | Alunos |
+|---|---|---|
+| 01 | 01 — Vendas de uma Loja | LUIZ FERNANDO CARVALHO DA COSTA e KAWÊ VICTOR LIMA DE OLIVEIRA
+| 02 | 02 — Desempenho Acadêmico | FERNANDO LEMKE DA SILVEIRA e ERIK ALVES DE SOUSA
+| 03 | 03 — Biblioteca | Sanggar Santos Guimarães e Jaislane Santos da Silva
+| 04 | 04 — Streaming de Filmes e Séries | MARCO ANTÔNIO KLEPAC NETO e THULIO AUGUSTO SOUSA BARROS
+| 05 | 05 — E-commerce | GABRIEL SILVA DA ROCHA e VITOR FELDKIRCHER
+| 06 | 06 — Cursos Online | DIVINO RAFAEL ABADE OLIVEIRA e LUIS OTÁVIO VIANA DOS SANTOS
+| 07 | 07 — Academia | LEONIDAS SOUSA DA CONCEIÇÃO e DANIELLA
+| 08 | 08 — Campeonato de Futebol | JÔNATAS LOPES PINTO E GILBERTO
+| 09 | 09 — Plataforma de Eventos | ERDESON MONTEIRO CANDEIAS, GERSON RESPLANDES DE SA SOUSA E MARCOS JEAN
+| 10 | 10 — Restaurante | PHELYPE ROCHA MARQUES E BONIFÁCIO PINTO COSTA NETO
+| 11 | 11 — Entregas | KAUÊ LIMA OLIVEIRA E GUSTAVO SILVA DO NASCIMENTO
+| 12 | 12 — Aplicativo de Música | MARCOS VINICIUS SOUSA DOS SANTOS E ESLEY ROBSON SOARES SILVA FILHO
+| 13 | 13 — Atendimento ao Cliente | VICTOR GABRIEL GUIDA LIMA E JADSON PAZ SALES
+| 14 | 14 — Hospedagem | VICTOR GUILHERME MATIAS SILVA, ELIELSON RODRIGUES DO NASCIMENTO E LUIS HENRIQUE DE SOUSA ALVES
+| 15 | 15 — Transporte Público | JOSÉ MARTINS NUNES NETO E CARLOS VICTO GUIMARÃES NUNES
+| 16 | 16 — Loja de Jogos | KATARINY DE JESUS BARRETO E ANA CLARA RIBEIRO QUIXABEIRA
+| 17 | 17 — Rede Social | MATHEUS ROCHA RODRIGUES E TÁTILA FRANÇA DE SOUSA
+| 18 | 18 — Recrutamento | EVERTON FELIPE CIRQUEIRA DA SILVA E VINICIUS MUNIZ LOPES DOS SANTOS
+| 19 | 19 - Farmácia | DANIEL VERÍSSIMO NUNES MEDEIROS e RENATO GUIDO TEIXEIRA
+| 20 | 20 - Oficina Mecânica | -
+| 21 | 21 - Cinema | -
+| 22 | 22 - Agência de Viagens | -
 
 ## Como utilizar o cenário
 

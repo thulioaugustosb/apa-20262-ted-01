@@ -1,0 +1,9 @@
+item_id,item,tipo,preco
+I01,Banho,Serviço,45
+I02,Tosa,Serviço,60
+I03,Consulta,Serviço,90
+I04,Vacina,Serviço,80
+I05,Ração,Produto,120
+I06,Petisco,Produto,25
+I07,Brinquedo,Produto,35
+I08,Antipulgas,Produto,55

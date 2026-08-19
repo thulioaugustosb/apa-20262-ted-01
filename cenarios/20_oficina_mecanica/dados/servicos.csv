@@ -1,0 +1,9 @@
+servico_id,servico,categoria,preco_base
+S01,Troca de óleo,Manutenção,120
+S02,Alinhamento,Suspensão,90
+S03,Freios,Manutenção,250
+S04,Revisão,Manutenção,350
+S05,Bateria,Elétrica,420
+S06,Pneus,Suspensão,600
+S07,Diagnóstico,Elétrica,80
+S08,Ar-condicionado,Climatização,180
