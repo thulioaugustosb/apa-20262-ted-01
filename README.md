@@ -8,7 +8,7 @@ Cada dupla deverá utilizar **exclusivamente o cenário que foi atribuído pelo 
 
 | Grupo | Cenário | Alunos |
 |---|---|---|
-| 01 | 01 — Vendas de uma Loja | LUIZ FERNANDO CARVALHO DA COSTA e KAWÊ VICTOR LIMA DE OLIVEIRA
+| 01 | 01 — Vendas de uma Loja | LUIZ FERNANDO CARVALHO DA COSTA, KAWÊ VICTOR LIMA DE OLIVEIRA e JOACY ARRUDA DE ASSIS JUNIOR
 | 02 | 02 — Desempenho Acadêmico | FERNANDO LEMKE DA SILVEIRA e ERIK ALVES DE SOUSA
 | 03 | 03 — Biblioteca | Sanggar Santos Guimarães e Jaislane Santos da Silva
 | 04 | 04 — Streaming de Filmes e Séries | MARCO ANTÔNIO KLEPAC NETO e THULIO AUGUSTO SOUSA BARROS
